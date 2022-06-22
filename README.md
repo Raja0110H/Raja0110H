@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Raja, you can call me Rj.
--  🌱 I’m a FrontEnd-Developer,learning to be a full stack mern developer.
+-  🌱 I’m a FrontEnd-Developer,On the road to becoming a MernStack developer.
 - I enjoy learning new Technologies.
 - 👀 I’m a huge soccer fan and I love being creative.
 - I enjoy pushing myself to be the best me I can be.
