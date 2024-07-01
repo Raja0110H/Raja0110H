@@ -1,5 +1,3 @@
-Website ::::: https://raja-hamilton.vercel.app/
-
 - 👋 Hi, My name is Raja, you can call me Rj.
 -  🌱 I’m a FullStack-Developer
 - I enjoy learning new Technologies.
