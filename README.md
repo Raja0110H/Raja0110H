@@ -12,7 +12,7 @@ This is why I see projects through to the end of success.
 -My goal is to contribute to my team's success through hard work, attention to detail, 
  and excellent organizational skills.
 - 📫 email: **rajahamilton0110@gmail.com**
-- portfolio:  **https://rajahamilton0110seniorswe.netlify.app/**
+- portfolio:  **https://main.duqw1mhb88ig9.amplifyapp.com/**
 
 <!---
 Raja0110H/Raja0110H is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
